@@ -1,6 +1,6 @@
 # FORMULAS E DADOS ABERTOS
-Atvidade para a matéria informatica aplicada a logística.
-Foi colocado aos alunos para pesquisar e baixar alguma planilha contendo qualquer tipo de dados abertos e elaborassem 5 perguntas em cima dos dados e que respondessem utulizando formulas no Excel.
+Atividade para a matéria informatica aplicada a logística.
+Foi colocado aos alunos para pesquisar e baixar alguma planilha contendo qualquer tipo de dados abertos e que elaborassem 5 perguntas em cima dos dados e respondessem utulizando formulas no Excel.
 
 
 Utilizei o site: https://www.governoaberto.sp.gov.br/ para extrair os dados e realizar a atividade.
