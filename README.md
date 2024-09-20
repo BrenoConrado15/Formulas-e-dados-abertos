@@ -2,11 +2,13 @@
 Atvidade para a matéria informatica aplicada a logística.
 Foi colocado aos alunos para pesquisar e baixar alguma planilha contendo qualquer tipo de dados abertos e elaborassem 5 perguntas em cima dos dados e que respondessem utulizando formulas no Excel.
 
+
 Utilizei o site: https://www.governoaberto.sp.gov.br/ para extrair os dados e realizar a atividade.
 
 Os dados que utilizei para realizar a atividade são do CDHU na região de São José dos Campos no periodo de 2023 e 2024.
 
 Segue abaixo as perguntas elaboradas com suas devidas respostas e formulas utilizadas.
+
 
 ##Pergunta 1 - QUAL O TOTAL DE UNIDADES HABITACIONAIS?
 R: 928
