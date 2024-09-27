@@ -12,27 +12,27 @@ Segue abaixo as perguntas elaboradas com suas devidas respostas e formulas utili
 
 ##
 Pergunta 1 - QUAL O TOTAL DE UNIDADES HABITACIONAIS?  
-R: 928
+R: 928  
 Formula utilizada: =SOMA
 
 ##
 Pergunta 2 - QUAL MUNICIPIO POSSUI O MAIOR NUMERO DE UNIDADES HABITACIONAIS?  
-  R: São sebastião T/U
+  R: São sebastião T/U  
   Formula utilizada: =ÍNDICE / =CORRESP / =MAIOR
 
 ##
 Pergunta 3 - QUAL MUNICIPIO POSSUI O MENOR NUMERO DE UNIDADES HABITACIONAIS?  
-  R: Cachoeira Paulista D1
+  R: Cachoeira Paulista D1  
   Formula utilizada: =ÍNDICE / =CORRESP / =MENOR
 
 ##
 Pergunta 4 - COM BASE EM 2024, QUAL O TOTAL DE UHS ENTREGUES?  
-  R: 704
+  R: 704  
   Formula utilizada: =SOMASE / =MAIOR
 
 ##
 Pergunta 5 - COM BASE EM 2023, QUAL O TOTAL DE UHS ENTREGUES?  
-  R: 224
+  R: 224  
   Formula utilizada: =SOMASE / =MENOR
 
 # GRÁFICOS
