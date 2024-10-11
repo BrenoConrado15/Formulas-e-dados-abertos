@@ -1,5 +1,6 @@
+# Atividade para a matéria informatica aplicada a logística.  
+
 # FORMULAS E DADOS ABERTOS
-Atividade para a matéria informatica aplicada a logística.
 Foi colocado aos alunos para pesquisar e baixar alguma planilha contendo qualquer tipo de dados abertos e que elaborassem 5 perguntas em cima dos dados e respondessem utulizando formulas no Excel.
 
 
@@ -40,6 +41,28 @@ Pergunta 5 - COM BASE EM 2023, QUAL O TOTAL DE UHS ENTREGUES?
 ![image](https://github.com/user-attachments/assets/e4948f93-8c85-4afc-8aec-7d8807df5cef)
 ![image](https://github.com/user-attachments/assets/23fb5166-689d-4079-800e-3543ce194ba7)
 ![image](https://github.com/user-attachments/assets/a047676e-1fe7-400d-8418-414be5c1a4ff)
+
+
+
+  
+# PAÍSES E BANDEIRAS
+Dando continuidade nas ativdades de informátca. Uma planilha contendo dados abertos foi disponibilizidade pela professora e dessa forma foi proposto aos alunos que linkassem a coluna contendo o nome de diversos países a suas respectivas bandeiras no PowerBI.
+
+Utilizei o site: https://paises.ibge.gov.br/ para extrair os dados referentes aos páises e bandeiras para realizar a atividade.
+
+# TELAS DO POWER BI EM FUNCIONAMENTO
+![image](https://github.com/user-attachments/assets/2f887f47-46a3-41c4-b873-3092e68bbf62) 
+![image](https://github.com/user-attachments/assets/fb2a4f97-3dec-4eac-9cde-a9c2aefd0f9f) 
+![image](https://github.com/user-attachments/assets/8e0dc891-cd1e-4604-9d44-24d2a71fec67)
+
+
+
+
+
+
+
+
+
 
 
 
