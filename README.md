@@ -1,6 +1,6 @@
 # Atividades para a matéria informatica aplicada a logística.  
 
-# FORMULAS E DADOS ABERTOS
+# *FORMULAS E DADOS ABERTOS*
 Foi colocado aos alunos para pesquisar e baixar alguma planilha contendo qualquer tipo de dados abertos e que elaborassem 5 perguntas em cima dos dados e respondessem utulizando formulas no Excel.
 
 
@@ -55,6 +55,13 @@ Utilizei o site: https://paises.ibge.gov.br/ para extrair os dados referentes ao
 ![image](https://github.com/user-attachments/assets/fb2a4f97-3dec-4eac-9cde-a9c2aefd0f9f) 
 ![image](https://github.com/user-attachments/assets/8e0dc891-cd1e-4604-9d44-24d2a71fec67)
 
+-  
+
+# *POWER BI, DADOS ABERTOS E GITHUB*
+Nesta atividade, os alunos foram orientados a utilizar o mesmo arquivo Excel da tarefa anterior, contendo fórmulas e dados já preenchidos. Desta vez, o objetivo é criar visualizações no Power BI, aproveitando os dados abertos do Excel para desenvolver painéis interativos e informativos.
+
+Abaixo os painéis criados na ferramenta.  
+![image](https://github.com/user-attachments/assets/b1df20ce-66dd-44b3-b18b-180f36b25788)
 
 
 
