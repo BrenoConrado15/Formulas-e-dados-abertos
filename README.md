@@ -58,10 +58,18 @@ Utilizei o site: https://paises.ibge.gov.br/ para extrair os dados referentes ao
 -  
 
 # *POWER BI, DADOS ABERTOS E GITHUB*
-Nesta atividade, os alunos foram orientados a utilizar o mesmo arquivo Excel da tarefa anterior, contendo fórmulas e dados já preenchidos. Desta vez, o objetivo é criar visualizações no Power BI, aproveitando os dados abertos do Excel para desenvolver painéis interativos e informativos.
+Nesta atividade, os alunos foram orientados a utilizar o mesmo arquivo Excel da tarefa anterior, contendo fórmulas e dados já preenchidos. Desta vez, o objetivo foi criar visualizações no Power BI, aproveitando os dados abertos do Excel para desenvolver painéis interativos e informativos.
 
 Abaixo os painéis criados na ferramenta.  
 ![image](https://github.com/user-attachments/assets/b1df20ce-66dd-44b3-b18b-180f36b25788)
+
+-
+
+# *POWER BI, FÓMULAS DAX E KPI*  
+Nesta atividade, fomos orientados a criar um dashboard sobre o total de itens vendidos, utilizando a a base de dados fornecida na aula como base. O objetivo foi praticar a criação de visualizações informativas em cima de KPI's já existentes.
+
+Abaixo os painéis criados na ferramenta. 
+![image](https://github.com/user-attachments/assets/62880763-37f1-4f14-84e9-1ffd24d455d1)
 
 
 
