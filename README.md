@@ -79,6 +79,16 @@ Este trabalho tem como objetivo analisar o desempenho das metas de vendas de pro
 Abaixo os painéis criados.  
 ![image](https://github.com/user-attachments/assets/7cfbb1b5-7f33-4118-b62e-3d2f53ad45ae)
 
+-
+
+# *ALUNOS ESTRANGEIROS POR NACIONALIDADE*
+Este repositório contém um dashboard desenvolvido no Power BI com base em um conjunto de dados relacionado a alunos estrangeiros apresentando três visualizações: gráfico de barras e gráfico de pizza . O objetivo é organizar e interpretar os dados de forma clara e interativa, utilizando o arquivo 
+
+Abaixo os painéis criados;  
+![image](https://github.com/user-attachments/assets/bafc6e3e-b263-4e00-9de8-3a20123f9eb6)
+
+
+
 
 
 
