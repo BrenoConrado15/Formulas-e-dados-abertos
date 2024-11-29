@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/ae8d896f-63cf-4c15-9995-a260584768d6
 # Atividades para a matéria informatica aplicada a logística.  
 
 # *FORMULAS E DADOS ABERTOS*
@@ -78,6 +80,15 @@ Este trabalho tem como objetivo analisar o desempenho das metas de vendas de pro
 
 Abaixo os painéis criados.  
 ![image](https://github.com/user-attachments/assets/7cfbb1b5-7f33-4118-b62e-3d2f53ad45ae)
+
+
+# *APLICATIVO COM O COPILOT*  
+Nesta apresentação, os alunos foram desafiados a desenvolver um aplicativo utilizando a IA Copilot, por meio do Power Apps.  
+Abaixo está o vídeo do aplicativo desenvolvido, que exibe um catálogo de motos à venda, a quantidade em estoque e os vendedores responsáveis por cada veículo. 
+
+
+https://github.com/user-attachments/assets/b2149744-18bb-4a91-a6a7-37251e18d7d0
+
 
 -
 
