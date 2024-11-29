@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/ae8d896f-63cf-4c15-9995-a260584768d6
 # Atividades para a matéria informatica aplicada a logística.  
 
 # *FORMULAS E DADOS ABERTOS*
